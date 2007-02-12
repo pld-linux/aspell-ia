@@ -1,5 +1,5 @@
 Summary:	Interlingua dictionary for aspell
-Summary(pl.UTF-8):   Słownik interlingua dla aspella
+Summary(pl.UTF-8):	Słownik interlingua dla aspella
 Name:		aspell-ia
 Version:	0.50
 %define	subv	1
