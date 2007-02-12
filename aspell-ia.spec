@@ -1,5 +1,5 @@
 Summary:	Interlingua dictionary for aspell
-Summary(pl):	S≥ownik interlingua dla aspella
+Summary(pl.UTF-8):   S≈Çownik interlingua dla aspella
 Name:		aspell-ia
 Version:	0.50
 %define	subv	1
@@ -17,8 +17,8 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 %description
 Interlingua dictionary (i.e. word list) for aspell.
 
-%description -l pl
-S≥ownik interlingua (lista s≥Ûw) dla aspella.
+%description -l pl.UTF-8
+S≈Çownik interlingua (lista s≈Ç√≥w) dla aspella.
 
 %prep
 %setup -q -n %{name}-%{version}-%{subv}
